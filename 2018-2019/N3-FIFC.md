@@ -76,15 +76,19 @@ Description du projet
 * git :
 
 
-# Équipe 8 : Nom du projet
-Description du projet 
+# Équipe 8 : Wazabi
+Wazabi est un jeu de société constitué de cartes et de dés. Il se joue à 4 joueurs
 
 ## Équipe
-* Prénom Nom
+* Alexandre Blerreau
+* Nicolas Coussement
+* Florentin Fievet
+* Bastien Pannier
+* Clément Payen
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/pannierb/AgileG8.git
 
 
 # Équipe 9 : Nom du projet
